@@ -1,0 +1,386 @@
+<resources>
+    <string name="app_name">Desarrollo2.0</string>
+    <string name="ingresarEdad">Ingrese la Fecha de Nacimiento de su niñ@</string>
+    <string name="materiales">Materiales</string>
+    <string name="test">Test</string>
+    <string name="acerca">Acerca de La App</string>
+    
+    
+    <string-array name="itemsMotricidadGruesa">
+        <item>  Realiza reflejo de búsqueda y reflejo de succión.</item>
+
+        <item>
+            El reflejo de moro está presentey es simétrico.</item>
+
+        <item>
+            Mueve sus extremidades.</item>
+
+        <item>
+            Sostiene la cabeza al levantarlo de los brazos.</item>
+
+        <item>
+            Levanta la cabeza y pecho en prono.</item>
+
+        <item>
+            Gira la cabeza desde la linea media.</item>
+
+        <item>
+            Control de la cabeza sentado con apoyo.</item>
+
+        <item>
+            Se voltea.</item>
+
+        <item>
+            Se mantiene sentado momentáneamente.</item>
+
+        <item>
+            Se mantiene sentado sin apoyo.</item>
+
+        <item>
+            adopta la posición de sentado.</item>
+
+        <item>
+            Se arrastra en posición prono.</item>
+
+        <item>
+            Gatea con desplazamiento cruzado (alternando rodilla y manos)</item>
+
+        <item>
+            Adopta posición bípeda y se sostiene de pie con apoyo.</item>
+
+        <item>
+            Se sostiene de pie sin apoyo.</item>
+
+        <item>
+            Se pone de pie sin ayuda.</item>
+
+        <item>
+            Da pasos solo(a).</item>
+
+        <item>
+            camina con desplazamiento cruzado sin ayuda(alternando manos y pies).</item>
+
+        <item>
+            Corre.</item>
+
+        <item>
+            Lanza la pelota.</item>
+
+        <item>
+            Patea la pelota.</item>
+
+        <item>
+            Salta con los pies juntos</item>
+
+        <item>
+            Se empina en ambos pies.</item>
+
+        <item>
+            Sube dos escalones sin apoyo.</item>
+
+        <item>
+            Camina en puntas de pies.</item>
+
+        <item>
+            Se para en un solo pie.</item>
+
+        <item>
+            Baja dos escalones con apoyo minimo, alternando los pies.</item>
+
+        <item>
+            Camina sobre una linea recta sin apoyo visual.</item>
+
+        <item>
+            Salta en tres o más ocasiones en un pie.</item>
+
+        <item>
+            Hace rebotar y agarra la pelota.</item>
+
+        <item>
+            Hace “caballitos” (alternando los pies)</item>
+
+        <item>
+            Salta de lado a lado de una línea con los pies juntos.</item>
+
+        <item>
+            Salta desplazándose con ambos pies</item>
+
+        <item>
+            Mantiene el equilibrio en la punta de los pies con los ojos cerrados.</item>
+
+        <item>
+             Realiza saltos alternados en secuencia.</item>
+
+        <item>
+             Realiza alguna actividad de integración motora.</item>
+
+    </string-array>
+    
+    <string-array name="motricidadFinoAdaptativa">
+        <item>
+             Reflejo de prensión palmar.</item>
+
+        <item>
+            Reacciona ante la luz y sonidos.</item>
+
+        <item>
+            Sigue movimiento horizontal.</item>
+
+        <item>
+            Abre y mira sus manos.</item>
+
+        <item>
+            Sostiene objeto en la mano.</item>
+
+        <item>
+            Se lleva un objeto a la boca.</item>
+
+        <item>
+            Agarra objetos voluntariamente.</item>
+
+        <item>
+            Retiene un objeto cuando se lo intenta quitar.</item>
+
+        <item>
+            Pasa objeto de una mano a otra.</item>
+
+        <item>
+            Sostiene un objeto en cada mano.</item>
+
+        <item>
+            Deja caer los objetos intencionalmente.</item>
+
+        <item>
+            Agarra con pulgar e índice (pinza).</item>
+
+        <item>
+            Agarra un tercer objeto cin soltar otros.</item>
+
+        <item>
+            Saca objetos del contenedor.</item>
+
+        <item>
+            Busca objetos escondidos.</item>
+
+        <item>
+            Hace torre de tres cubos.</item>
+
+        <item>
+            Pasa hojas de un libro.</item>
+
+        <item>
+            Agarra una cuchara y se la lleva a la boca.</item>
+
+        <item>
+            Garabatea espontáneamente.</item>
+
+        <item>
+            Quita la tapa del contenedor o frasco de muestra de orina.</item>
+
+        <item>
+            Hace torre de cinco cubos.</item>
+
+        <item>
+            Ensarta cuentas perforadas con pinza.</item>
+
+        <item>
+            Rasga papel con pinza de ambas manos.</item>
+
+        <item>
+            Copia línea horizontal y vertical.</item>
+
+        <item>
+            Hace una bola de papel con sus dedos.</item>
+
+        <item>
+            Copia círculo.</item>
+
+        <item>
+            Figura humana rudimentaria.</item>
+
+        <item>
+            Imita el dibujo de una escalera.</item>
+
+        <item>
+            Corta papel con las tijeras.</item>
+
+        <item>
+            Figura humana 2.</item>
+
+        <item>
+            Dibuja el lugar en el que vive.</item>
+
+        <item>
+            Modelo de cubos “escalera”.</item>
+
+        <item>
+            Copia de un triángulo.</item>
+
+        <item>
+            Copia de una figura de puntos.</item>
+
+        <item>
+            Puede hacer una figura plegada.</item>
+
+        <item>
+            Ensarta cordón cruzado (cómo amarrarse los zapatos).</item>
+
+    </string-array>
+
+    <string-array name="audicionLenguaje">
+
+        <item>Se sobresalta con ruido.</item>
+
+        <item>Contempla momentáneamente a una persona.</item>
+
+        <item>Llora para expresar necesidades.</item>
+
+        <item>Se tranquiliza con la voz humana.</item>
+
+        <item>Produce sonidos guturales indiferenciados.</item>
+
+        <item>Busca el sonido con la mirada.</item>
+
+        <item>Busca diferentes sonidos con la mirada.</item>
+
+        <item>Pone atención a la conversación.</item>
+
+        <item>Produce cuatro o más sonidos diferentes.</item>
+
+        <item>Pronuncia tres o más sílabas.</item>
+
+        <item>Reacciona cuando se le llama por su nombre.</item>
+
+        <item>Reacciona a tres palabras familiares.</item>
+
+        <item>Reacciona a la palabra no.</item>
+
+        <item>Llama al cuidador.</item>
+
+        <item>Responde a una instruccion sencilla.</item>
+
+        <item>Aproximación a una palabra con intención comunicativa.</item>
+
+        <item>Reconoce al menos 6 objetos o imágenes.</item>
+
+        <item>Sigue instrucciones de dos pasos.</item>
+
+        <item>Nombra cinco objetos de una imagen.</item>
+
+        <item>Utiliza más de 20 palabras.</item>
+
+        <item>Usa frase de dos palabras.</item>
+
+        <item>Dice su nombre completo.</item>
+
+        <item>Dice frases de 3 palabras.</item>
+
+        <item>Reconoce cualidades de los objetos.</item>
+
+        <item>Define por su uso cinco objetos.</item>
+
+        <item>Hace comparativos.</item>
+
+        <item>Describe el dibujo.</item>
+
+        <item>Denomina 5 colores.</item>
+
+        <item>Responde tres preguntas sobre un relato.</item>
+
+        <item>Elabora un relato a partir de una imagen.</item>
+
+        <item>Expresa opiniones.</item>
+
+        <item>Repite palabras con pronunciación correcta.</item>
+
+        <item>Absurdos visuales.</item>
+
+        <item>Identifica palabras que inician con sonidos parecidos.</item>
+
+        <item>Conoce: ayer, hoy y mañana.</item>
+
+        <item>Ordena una historia y la relata.</item>
+
+    </string-array>
+
+    <string-array name="personalSocial">
+
+        <item>Se tranquiliza cuando se toma entre los brazos.</item>
+
+        <item>Responde a las caricias.</item>
+
+        <item>El bebé ya está registrado.</item>
+
+        <item>Reconoce la voz del cuidador principal.</item>
+
+        <item>Sonrisa social.</item>
+
+        <item>Responde a una conversación. </item>
+
+        <item>Coge las manos del examinador.</item>
+
+        <item>Ríe a carcajadas.</item>
+
+        <item>Busca la continuación del juego.</item>
+
+        <item>Reacciona con desconfianza ante el extraño(a).</item>
+
+        <item>Busca apoyo del cuidador.</item>
+
+        <item>Reacciona a su imagen en el espejo.</item>
+
+        <item>Participa en juegos.</item>
+
+        <item>Muestra interés o intención en alimentarse solo.</item>
+
+        <item>Explora el entorno.</item>
+
+        <item>Seguimiento de rutinas.</item>
+
+        <item>Ayuda a desvestirse.</item>
+
+        <item>Señala 5 partes de su cuerpo.</item>
+
+        <item>Acepta y tolera el contacto de su piel con diferentes texturas.</item>
+
+        <item>Expresa su satisfacción cuando logra o consigue algo.</item>
+
+        <item>Identifica emociones básicas en una imagen.</item>
+
+        <item>Identifica qué es de él y qué es de otros.</item>
+
+        <item>Dice nombres de las personas con quienes vive o comparte.</item>
+
+        <item>Expresa verbalmente emociones básicas (tristeza, alegría, miedo, rabia).</item>
+
+        <item>Rechaza la ayuda del cuidador cuando desea, intenta o hace algo por sí mismo.</item>
+
+        <item>Comparte juego con otros(as) niños(as).</item>
+
+        <item>Reconoce las emociones básicas en los otros(as).</item>
+
+        <item>Puede desvestirse y vestirse solo(a).</item>
+
+        <item>Propone juegos</item>
+
+        <item>Sabe cuántos años tiene.</item>
+
+        <item>Participa en juegos respetando reglas y turnos.</item>
+
+        <item>Comenta vida familiar.</item>
+
+        <item>Colabora por iniciativa propia con actividades cotidianas.</item>
+
+        <item>Manifiesta emoción ante acontecimientos importantes de su grupo social.</item>
+
+        <item>Reconocimientos de normas o prohibiciones.</item>
+
+        <item>Reconoce emociones complejas (culpa, pena, etc.).</item>
+
+
+    </string-array>
+    
+    <string name="condicionObservacion">Condición de Observación</string>
+    <string name="criterioRespuesta">Criterios de Respuesta</string>
+    
+</resources>
